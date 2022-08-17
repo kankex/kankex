@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kanko
+- 👀 I’m interested in datascience and logistics
+- 🌱 I’m currently learning all about datascience in order to build a career on it
+- 💞️ I’m looking to collaborate on how to improve resources using data
+- 📫 I´m still pretty new in all this, so just twitter as @RocchiKanko
